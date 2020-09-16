@@ -2,4 +2,5 @@
 using namespace std;
 int main() {
     cout<<Hello world!<<endl;
+    cout<<Ny new rating<<endl;
 }
